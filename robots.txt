@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://azamatgizzatullin.github.io/semrush-polygon/sitemap.xml
